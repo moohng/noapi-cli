@@ -1,6 +1,6 @@
 {
   "name": "@noapi/cli",
-  "version": "1.2.0",
+  "version": "1.0.0",
   "description": "自动生成前端api代码和ts类型定义的命令行工具",
   "main": "lib/cli.js",
   "bin": {
